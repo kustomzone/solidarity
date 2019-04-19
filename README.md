@@ -1,16 +1,31 @@
 # solidarity
-a solid based chat app
-
-UI Notes:
-Breakpoints at 320, 650, 980;  also because of the nature of these types of multi-user chats it will need to use fluid sizing to make best use of the available screen space.
-
-Code notes:
-Try to use standard solid libaries where possible.
-Bundle code and graphics to make the install process as easy as possible.
+a solid based chat app.
 
 Features:
-basically a gitter-ish style chat;  the artwork ui design will dictate the features.
+Basically a gitter-ish style chat;  the artwork ui design will dictate the features.
 
-
-Basic look-n-feel
+Look-n-feel:
 ![screen 1](look-n-feel/look-n-feel_19-04-2019%2013-26-24.png)
+
+UI notes:
+Breakpoints at 320, 650, 980;  responsive to make best use of the available screen space.
+
+
+
+Stage 1.
+Build the master viewport and place in static image widgets, revise as required.
+
+Stage 2.
+Convert the static images into html blocks with events.
+
+Stage 3.
+Populate the html with dummy data, and add the breakpoints and responsive code.
+
+Stage 4.
+Define all the required calls for the front / back end.
+
+Stage 5.
+Wire up the UI.
+
+Stage 6.
+Review / test and reflect
