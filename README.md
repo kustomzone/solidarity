@@ -9,4 +9,9 @@ try to use standard solid libaries where possible.
 bundle code and graphics to make the install process as easy as possible.
 
 features:
-basically a gitter-ish style chat;  the artwork ui design will dictate the features and coding requirements.
+basically a gitter-ish style chat;  the artwork ui design will dictate the features.
+
+look-n-feel
+[add here]
+
+
