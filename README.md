@@ -13,4 +13,4 @@ basically a gitter-ish style chat;  the artwork ui design will dictate the featu
 
 
 Basic look-n-feel
-![screen 1](master/look-n-feel/look-n-feel_19-04-2019%2013-26-24.png)
+![screen 1](look-n-feel/look-n-feel_19-04-2019%2013-26-24.png)
