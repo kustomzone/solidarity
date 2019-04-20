@@ -1,6 +1,8 @@
 # Front-End
 Folder containing all the artwork, images, js, css, html etc relating to the UI and UIX of the app.
 
+(subject to change)
+
 # UI Component Parts
 1. master_viewport
 2. topnav, including; (logo, profile, options)
@@ -12,7 +14,7 @@ Folder containing all the artwork, images, js, css, html etc relating to the UI 
 
 Note: also requires fluid sizing to make best use of the available screen space.
 
-#HTML Templates
+# HTML Templates Required
 1. leftpanel -> People -> person
 2. leftpanel -> Communities -> channel
 3. leftpanel -> Conversations -> person / group
