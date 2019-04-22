@@ -1,5 +1,5 @@
 # Front-End
-Folder containing all the artwork, images, js, css, html etc relating to the UI and UIX of the app.
+Folder containing the web app.
 
 (subject to change)
 
